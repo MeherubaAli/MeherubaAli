@@ -1,7 +1,7 @@
 ## Hi there, you exhausted traveller 👋
 
 # 💫 I'm Meheruba (no shortcut!)
-🎀I'm a senior undergrad.<br> ✨Currently focused on courseworks.<br> 💫Working on upskilling myself with projects across various domains.<br> 💕But my passion lies with cybersecurity sect with interest in the offensiver side and writing.<br> 🤞Thank you for stopping here for a moment.
+🎀 I'm a senior year undergrad.<br> ✨ Currently focused on courseworks.<br> 💫 Working on upskilling myself with projects across various domains.<br> 💕 But my passion lies with cybersecurity sect with interest in the offensiver side and writing.<br> 🤞 Thank you for stopping here for a moment.
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdhZnBjdWo0ZTE0dGRsNWNxYzJ5dGkwbm81bnRyaG9tczYyaTg4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UpaxNpS4EI7fkBIGag/giphy.gif" alt="gif" width="300">
