@@ -3,6 +3,9 @@
 # 💫 I'm Meheruba (no shortcut!)
 🎀I'm a senior undergrad.<br> ✨Currently focused on courseworks.<br> 💫Working on upskilling myself with projects across various domains.<br> 💕But my passion lies with cybersecurity sect with interest in the offensiver side and writing.<br> 🤞Thank you for stopping here for a moment.
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdhZnBjdWo0ZTE0dGRsNWNxYzJ5dGkwbm81bnRyaG9tczYyaTg4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UpaxNpS4EI7fkBIGag/giphy.gif" alt="gif" width="300">
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/meheruba-ali-496744330) 
@@ -13,6 +16,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=MeherubaAli&theme=date_night&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MeherubaAli&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeherubaAli&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtsN2dzNzQxam1vMXprNzM2NGt0MXVoZTQyejQ0eGdmM205bzBhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCeVSv1kcvk1lGy6BN/giphy.gif"alt="gif" width="300">
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MeherubaAli&icon=7&color=10)](https://visitcount.itsvg.in)
