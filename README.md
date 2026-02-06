@@ -1,14 +1,13 @@
 ## Hi there, you exhausted traveller 👋
 
-# 💫 I'm Meheruba (no shortcut!)
-🎀 I'm a senior year undergrad student.<br> ✨ Currently focused on courseworks.<br> 💫 Working on upskilling myself with projects across various domains.<br> 💕 But my passion lies with cybersecurity sect. with interest in the offensive side and sometimes writing.<br> 🤞 Thank you for stopping here for a moment.
+🎀 Final year undergrad student.<br> ✨ Currently focused on courseworks.<br>💕 My passion lies with cybersecurity sect. with interest in the offensive side and sometimes writing.<br>🤞 Thank you for stopping here for a moment.
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdhZnBjdWo0ZTE0dGRsNWNxYzJ5dGkwbm81bnRyaG9tczYyaTg4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UpaxNpS4EI7fkBIGag/giphy.gif" alt="gif" width="300">
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meheruba-ali-496744330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/meheruba-ali) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
